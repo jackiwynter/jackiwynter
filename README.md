@@ -4,7 +4,7 @@ Hello, I'm Jacki. Data Scientist with expertise in machine learning, predictive 
 
 ### Projects 
 
-Welcome to my portfolio, where I showcase my projects. 
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jackiwynter/Portfolio-Guide). 
 
 ### Tools 
 - Language: Python, SQL
