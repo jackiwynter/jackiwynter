@@ -1,6 +1,6 @@
 # Introducing Myself 👋
 
-Hello, I'm Jacki. Data Scientist with expertise in machine learning, predictive modeling, and model evaluation. 
+Hello, I'm Jacki. Data Scientist with expertise in machine learning, predictive modeling, and model evaluation with a history of Development Studies & management consulting. 
 
 ### Projects 
 
