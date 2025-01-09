@@ -1,4 +1,14 @@
-## Hi there 👋
+# Introducing Myself 👋
+
+Hello, I'm Jacki. Data Scientist with expertise in machine learning, predictive modeling, and model evaluation. 
+
+### Projects 
+
+Welcome to my portfolio, where I showcase my projects. 
+
+### Tools 
+- Language: Python, SQL
+- Visualization: Tableau
 
 <!--
 **jackiwynter/jackiwynter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
