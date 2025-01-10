@@ -4,6 +4,7 @@ Hello, I'm Jacki!
 I’m a Data Scientist with expertise in machine learning, predictive modeling, and model evaluation, built on a foundation in Development Studies and management consulting.
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/jackiwynter/Portfolio-Guide). 
+
 I primarily work with Python but am also fluent in SQL, leveraging these tools to craft insights and solutions from complex datasets.
 
 
